@@ -1,0 +1,13 @@
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\obj\Debug\netcoreapp3.1\Enum_Pedido_Cliente.csprojAssemblyReference.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\obj\Debug\netcoreapp3.1\Enum_Pedido_Cliente.AssemblyInfoInputs.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\obj\Debug\netcoreapp3.1\Enum_Pedido_Cliente.AssemblyInfo.cs
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\obj\Debug\netcoreapp3.1\Enum_Pedido_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\bin\Debug\netcoreapp3.1\Enum_Pedido_Cliente.exe
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\bin\Debug\netcoreapp3.1\Enum_Pedido_Cliente.deps.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\bin\Debug\netcoreapp3.1\Enum_Pedido_Cliente.runtimeconfig.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\bin\Debug\netcoreapp3.1\Enum_Pedido_Cliente.runtimeconfig.dev.json
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\bin\Debug\netcoreapp3.1\Enum_Pedido_Cliente.dll
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\bin\Debug\netcoreapp3.1\Enum_Pedido_Cliente.pdb
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\obj\Debug\netcoreapp3.1\Enum_Pedido_Cliente.dll
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\obj\Debug\netcoreapp3.1\Enum_Pedido_Cliente.pdb
+C:\Users\MAluh-2\Documents\PROJETOS\C# NÉLIO ALVES\Enum_Pedido_Cliente\Enum_Pedido_Cliente\obj\Debug\netcoreapp3.1\Enum_Pedido_Cliente.genruntimeconfig.cache
